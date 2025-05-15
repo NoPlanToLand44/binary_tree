@@ -1,0 +1,4 @@
+to check if the tests are running proper ull need : 
+pip install pytest
+navigate to root and run :  
+pytest --maxfail=1 --disable-warnings -q
